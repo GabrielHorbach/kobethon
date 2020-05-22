@@ -23,7 +23,7 @@
   <img alt="Hobbie screenshot" src="./screenshots/screenshot-hobbie.png">
   <img alt="Reading screenshot" src="./screenshots/screenshot-reading.png">
   <img alt="Home screenshot mobile" src="./screenshots/screenshot-home-mobile.png">
-  <img alt="Hobbie screenshot mobile" src="./screenshots/screenshot-hobbie-mobile.png">
+  <img alt="Hobbie screenshot mobile" src="./screenshots/screenshot-hobbies-mobile.png">
   <img alt="Reading screenshot mobile" src="./screenshots/screenshot-reading-mobile.png">
 </p>
 
