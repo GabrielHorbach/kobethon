@@ -27,6 +27,7 @@ export const VideoWrapper = styled.div`
 
   @media (max-width: 650px) {
     margin: 0 auto;
+    width: 90%;
   }
 
   video {
