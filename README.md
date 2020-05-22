@@ -7,6 +7,12 @@
 </h4>
 
 <p align="center">
+  <a href="https://kobethon-gabriel.netlify.app/" target="_blank">
+    Run DEMO on Netlify!
+  </a>
+</p>
+
+<p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>
 </p>
@@ -16,6 +22,9 @@
   <img alt="Home screenshot" src="./screenshots/screenshot-home.png">
   <img alt="Hobbie screenshot" src="./screenshots/screenshot-hobbie.png">
   <img alt="Reading screenshot" src="./screenshots/screenshot-reading.png">
+  <img alt="Home screenshot mobile" src="./screenshots/screenshot-home-mobile.png">
+  <img alt="Hobbie screenshot mobile" src="./screenshots/screenshot-hobbie-mobile.png">
+  <img alt="Reading screenshot mobile" src="./screenshots/screenshot-reading-mobile.png">
 </p>
 
 ## :rocket: Technologies
